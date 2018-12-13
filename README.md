@@ -7,10 +7,15 @@ Developed using ReactJS and Ruby on Rails. Uses the USDA and Yelp Fusion APIs fo
 ## Credits
 
 Evan Klein - Team Leader, SCRUM Master (Sprint 1), developer
+
 Patrick Sullivan - SCRUM Master (Sprint 2), developer
+
 Peter Kfoury - SCRUM Master (Sprint 3), developer
+
 Sam Richardson - Developer, database administration
+
 Logan Stout - Developer
+
 Nick Franz - Developer
 
 ### Notes
